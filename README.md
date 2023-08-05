@@ -1,6 +1,6 @@
 # SVG Generator
 
-![SVG Generator](https://your-image-url.com)
+![SVG Generator]()
 
 ## Table of Contents
 
